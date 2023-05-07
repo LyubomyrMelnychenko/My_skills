@@ -1,6 +1,6 @@
 # My_skil
- Exemples of my skills: https://github.com/LyubomyrMelnychenko/My_skil.wiki.git
-
+ Videos of my skills listed below can be viewed on my profile in the Wiki folder/Home
+ 
 Ansible managmement servers
 
 Install on a AZURE Linux machine and DEPLOY the web "Blood-Bank" and connect to remote database
