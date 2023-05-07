@@ -1,5 +1,6 @@
 # My_skil
 https://github.com/LyubomyrMelnychenko/My_skil.wiki.git
+
 Ansible managmement servers
 
 Install on a AZURE Linux machine and DEPLOY the web "Blood-Bank" and connect to remote database
