@@ -1,5 +1,5 @@
 # My_skil
-https://github.com/LyubomyrMelnychenko/My_skil.wiki.git
+ Exemples of my skills: https://github.com/LyubomyrMelnychenko/My_skil.wiki.git
 
 Ansible managmement servers
 
