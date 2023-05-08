@@ -2,6 +2,7 @@
 
 Google Cloud skill badges
 
+
  Videos of my skills listed below can be viewed on my profile in the Wiki folder/Home
  
 Ansible managmement servers
