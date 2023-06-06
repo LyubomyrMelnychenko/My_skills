@@ -1,9 +1,13 @@
 # My_skills
 
-Google Cloud skill badges
+
 
 
  Videos of my skills listed below can be viewed on my profile in the Wiki folder/Home
+ 
+ Google Cloud skill badges
+ 
+ Managing Deployments Using Kubernetes Engine
  
 Ansible managmement servers
 
