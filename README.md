@@ -7,6 +7,8 @@
  
  Google Cloud skill badges
  
+ Automating Infrastructure on Google Cloud with Terraform
+ 
  Managing Deployments Using Kubernetes Engine
  
 Ansible managmement servers
